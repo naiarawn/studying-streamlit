@@ -1,0 +1,16 @@
+credentials:
+  usernames:
+    nnogueira:
+      email: testando@gmail.com
+      logged_in: False
+      name: Naiara Nogueira
+      password: abcd1234
+    ejesus:
+      email: testando1@gmail.com
+      logged_in: False
+      name: Edison Jesus
+      password: abcd1234
+cookie:
+  expiry_days: 1
+  key: some_signature_key
+  name: some_cookie_name
